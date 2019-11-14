@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://roman123:roman123@devconnector-blutp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
